@@ -78,6 +78,7 @@ header h1:hover {
 }
 .card-footer p:hover {
  text-decoration: underline overline;
+ cursor: none;
 }
 
 .card-footer::before {
