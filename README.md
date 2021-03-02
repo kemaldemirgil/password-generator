@@ -27,7 +27,7 @@ I've learned new methods and syntax while creating this program including;\
 
 ### Webpage:
 https://kemaldemirgil.github.io/password-generator/ \
-![ss-password-generator](assets/images/ss-password-generator.png)
+![ss-password-generator](assets/images/ss-password-generator0.png)
 
 ### License:
 
