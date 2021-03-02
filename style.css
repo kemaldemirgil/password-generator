@@ -39,6 +39,7 @@ h1 {
 }
 header h1:hover {
   text-shadow:  1px 1px 2px #000000, 1px 1px 3px #00FF41;
+  cursor: none;
 }
 
 .card {
@@ -62,6 +63,7 @@ header h1:hover {
 }
 .card-header h2 {
   text-align: center;
+  cursor: none;
 }
 
 .card-body {
