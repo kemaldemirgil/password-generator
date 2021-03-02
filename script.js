@@ -57,7 +57,6 @@ function generatedP(lower, upper, number, special, length) {
   if (countedTypes === 0) {
     return "";
   }
-
   //Looping over length & generating values for each type
   for (var i = 0; i < length; i += countedTypes) {
     typesA.forEach(
@@ -66,7 +65,6 @@ function generatedP(lower, upper, number, special, length) {
       generatedPassword += randomFunc[funcName]();//Assiging key values to empty string
     });
   }
-  //
   const finalPassword = generatedPassword.slice(0, length); //Removing every value but length
   return finalPassword;
 }

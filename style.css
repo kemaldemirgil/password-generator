@@ -140,7 +140,7 @@ button[disabled] {
   border-radius: 6px;
   resize: none;
   overflow: hidden;
-  background-color: #afb5bd
+  background-color: #afb5bd;
 }
 #password:hover {
   border: 2px solid #00FF41;
