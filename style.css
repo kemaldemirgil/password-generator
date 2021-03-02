@@ -145,6 +145,7 @@ button[disabled] {
 #password:hover {
   border: 2px solid #00FF41;
   box-shadow: 0.25px 0.25px 4px #00FF41;
+  cursor: copy;
 }
 
 @media (max-width: 690px) {
