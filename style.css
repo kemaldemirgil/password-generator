@@ -52,6 +52,7 @@ header h1:hover {
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
+  animation: glow 1300ms infinite;
 }
 
 .card-header::after {
@@ -63,7 +64,7 @@ header h1:hover {
 }
 .card-header h2 {
   text-align: center;
-  cursor: none;
+  cursor: default;
 }
 
 .card-body {
@@ -146,6 +147,21 @@ button[disabled] {
   border: 2px solid #00FF41;
   box-shadow: 0.25px 0.25px 4px #00FF41;
   cursor: copy;
+}
+
+@keyframes glow {
+  0% {
+    /* background-color: #2ba805; */
+    box-shadow: 0 0 5px #2ba805;
+  }
+  50% {
+    /* background-color: #49e819; */
+    box-shadow: 0 0 20px #49e819;
+  }
+  100% {
+    /* background-color: #2ba805; */
+    box-shadow: 0 0 5px #2ba805;
+  }
 }
 
 @media (max-width: 690px) {
