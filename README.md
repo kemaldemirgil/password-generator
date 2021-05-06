@@ -1,6 +1,6 @@
-![GitHub language count](https://img.shields.io/github/languages/count/kemaldemirgil/password-generator?color=green&logo=git)
-![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/password-generator?color=yellow&logo=javascript)
-![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/password-generator?color=purple&logo=git)
+![GitHub language count](https://img.shields.io/github/languages/count/kemaldemirgil/unhackable?color=green&logo=git)
+![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/unhackable?color=yellow&logo=javascript)
+![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/unhackable?color=purple&logo=git)
 # Password Generator
 ### About:
 This is my first application I've created using JavaScript. Even though, the result is fairly simple, it was pretty challenging at the beginning to understand the logic step by step and code it accordingly. I did some research about how text-generators work in general, and I tried my best to implement the neatest way to code this program.
@@ -26,11 +26,11 @@ I've learned new methods and syntax while creating this program including;\
 *Arrow Functions*
 
 ### Webpage:
-https://kemaldemirgil.github.io/password-generator/ \
+https://kemaldemirgil.github.io/unhackable/ \
 ![ss-password-generator](assets/images/ss-password-generator0.png)
 
 ### License:
 
 Copyright © Kemal Demirgil. All rights reserved.
-Licensed under the [MIT](https://github.com/kemaldemirgil/password-generator/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/kemaldemirgil/unhackable/blob/main/LICENSE) license.
 
